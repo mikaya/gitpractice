@@ -1,1 +1,3 @@
 Hi I'm mikaya starting to learn Git and SmartGit! Woohoo!
+
+This is another change, and i'm interested in seeing how a rebase is different from a merge in git.
